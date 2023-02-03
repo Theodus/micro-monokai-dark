@@ -1,6 +1,7 @@
 [{
   "Name": "monokai-dark",
   "Description": "A dark monokai colorscheme for micro",
+  "Website": "https://github.com/Theodus/micro-monokai-dark",
   "Tags": ["colorscheme"],
   "Versions": [
     {
